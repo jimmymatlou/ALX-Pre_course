@@ -1,9 +1,2 @@
-in/bash > 0-current_working_directory
-
-mkdir alx-system_engineering-devops
-  
-
-
-echo in/bash
-pwd
+#!bin/bash
 pwd
